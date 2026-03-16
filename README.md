@@ -2,6 +2,6 @@
 
 Git-versionhallinta - SOF013AS2A-3002
 
-Jone Hyttinen
+Razvan Hango
 
-Repositoriossa on kurssilla annettujen ohjeiden mukaan tehtyjä harjoituksia liittyen Git-versionhallintaan. 
+Repositoriossa on kurssilla annettujen ohjeiden mukaan tehtyjä tehtäviä. 
